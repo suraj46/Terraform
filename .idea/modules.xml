@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Terraform.iml" filepath="$PROJECT_DIR$/.idea/Terraform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Terraform id pass/.idea/Terraform id pass.iml" filepath="$PROJECT_DIR$/../Terraform id pass/.idea/Terraform id pass.iml" />
     </modules>
   </component>
 </project>
