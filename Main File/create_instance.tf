@@ -5,7 +5,7 @@ resource "aws_instance" "MyAWS" {
   instance_type = "t2.micro"
 
   tags = {
-    name = "demoinstance"
+    Name = "demoinstance-${count.index}"
   }
 
 }
