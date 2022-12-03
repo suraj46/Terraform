@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a30061b-626a-4016-a691-42217f0ae981" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Terraform Variables/createinstance.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform Variables/provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Terraform Variables/variables.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main File/create_instance.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Main File/create_instance.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HRxw9sCA0Z1NHi1s6g0nRhmIon" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
