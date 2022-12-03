@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a30061b-626a-4016-a691-42217f0ae981" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Terraform Variables/createinstance.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Terraform Variables/provider.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Terraform Variables/variables.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Terraform Variables/provider.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Terraform Variables/provider.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
